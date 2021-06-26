@@ -18,8 +18,8 @@ App disponível em: https://letmeaskplus.web.app/ acesso em 2021/06/26 19:28.
 
 ## Versão adaptada do treinamento NLV-6 Mission: ReactJS de 20/06/2021 a 27/06/2021.
 Créditos: Rocketseat
-https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg
-https://nextlevelweek.com
+Canal: https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg
+Site: https://nextlevelweek.com
 
 ## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
