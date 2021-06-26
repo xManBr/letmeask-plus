@@ -4,7 +4,7 @@
 
 Trata-se de aplicativo para postagem de perguntas, tendo em vista o enriquecimento do conteúdo de “lives” de qualquer natureza.
 
-## Acesso em 7 passos:
+### Acesso em 7 passos:
 1 -> Faça "login" utilizando sua conta Google;  \
 2-> Crie sua sala com um nome de sua preferência;  \
 3-> Insira a primeira frase de boas-vindas – nas próximas vezes que você acessar a sala que você mesmo criou, será direcionado para a tela de administração – com funções de pergunta respondia, enfatizada e deletada;  \
@@ -13,20 +13,17 @@ Trata-se de aplicativo para postagem de perguntas, tendo em vista o enriquecimen
 6-> Insira uma pergunta bem legal;  \
 7-> PLUS -> Palavras de ouro -> A área do administrador tem um campo para pesquisa de perguntas por palavras chaves, insira uma ou múltiplas palavras de ouro para sua "live". Isso vai selecionas as perguntas que tenha pelo menos uma das palavras que foram selecionadas no campo de pesquisa. Isso para o bem da dinâmica do seu trabalho de influenciador digital. \
 
-## Demonstrativo on-line
+### Demonstrativo on-line
 App disponível em: https://letmeaskplus.web.app/ acesso em 2021/06/26 19:28.
 
-## Versão adaptada do treinamento NLV-6 Mission: ReactJS de 20/06/2021 a 27/06/2021.
+### Versão adaptada do treinamento NLV-6 Mission: ReactJS de 20/06/2021 a 27/06/2021.
 Créditos: Rocketseat \
 Canal: https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg \
 Site: https://nextlevelweek.com
 
-## Getting Started with Create React App
+### Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Developed with Firebase
+### Developed with Firebase
 "Backed by Google and loved by app development teams - from startups to global enterprises". \
 https://firebase.google.com
-
-
-
